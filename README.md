@@ -41,7 +41,7 @@ src/
 
 1. Clone o repositório:
 ```bash
-   git clone https://github.com/SEU-USUARIO/snackbar-orders.git
+   git clone https://github.com/DenysRafael/snackbar-orders.git
 ```
 2. Abra a pasta no **IntelliJ IDEA** (ou outra IDE Java)
 3. Execute o método `main` da classe `Main`
